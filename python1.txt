@@ -1,0 +1,95 @@
+print("Become the programmer you're meant to be!")
+print = "Hello World"
+print = "Welcome to python"
+print = "lalith"
+print ="I am learning Python"
+print ="Python Programming"
+print ="Good Morning"
+print ="Welcome Students"
+print ="Python is easy"
+print ="My First Program"
+print ="Hello from Python"
+print ("2+5")
+print (a+b)
+c = 10
+d = 3
+print(c-d)
+print("Hello World!")
+print("Hello")
+print("Python")
+print("10+20")
+print(10+20)
+name = "prathap"
+age = 20
+marks = 85
+price = 99.5
+city ="penukonda"
+print(city)
+score = 95
+print(score)
+x = 10
+print(x)
+message = "Welcome"
+print(message)
+print("Start")
+print("Middle")
+print("End")
+print("First")
+print("Second")
+print("Third")
+x=10
+print(x)
+x=20
+print(x)
+number=5
+print(number)
+number=10
+print(number)
+print("A")
+print("B")
+print("C")
+name=("Ravi")
+print(name)
+age=20
+print(age)
+print(1)
+print(2)
+print(3)
+print(4)
+x=5
+print(x)
+y=10
+print(y)
+print("start")
+print(2+3)
+print("End")
+print("Login")
+print("Dashboard")
+print("Logout")
+a = 10
+b = 20 
+print(a+b)
+quantity = 5 
+price = 10
+print(quantity*price)
+a = 25
+print(type(a))
+b = 25.5
+print(type(b))
+c = "25"
+print(type(c))
+age = 21
+print(type(age))
+height = 5.8
+print(type(height))
+name = "Arun"
+print(type(name))
+age = 20
+price= 99.5
+name="Ravi"
+marks=90
+print(type(marks))
+temperature= 36.5
+print(type(temperature))
+message= "Welcome"
+print(type(message))
